@@ -2,7 +2,7 @@
 > written for NCU "智慧校園實作 Practice of smart campus" TA course
 
 ## Deploy to Heroku
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/https://github.com/wanghaisheng/LineBot-IoT/)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wanghaisheng/LineBot-IoT/)
 
 > Don't forget to fork before deploy!
 
